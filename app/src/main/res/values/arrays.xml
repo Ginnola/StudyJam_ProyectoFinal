@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombre">
+        <item>@string/main.pk1.titulo</item>
+        <item>@string/main.pk2.titulo</item>
+        <item>@string/main.pk3.titulo</item>
+        <item>@string/main.pk4.titulo</item>
+        <item>@string/main.pk5.titulo</item>
+        <item>@string/main.pk6.titulo</item>
+        <item>@string/main.pk7.titulo</item>
+        <item>@string/main.pk8.titulo</item>
+    </string-array>
+
+    <string-array name="tipos">
+        <item>@string/main.pk1.subtitulo</item>
+        <item>@string/main.pk2.subtitulo</item>
+        <item>@string/main.pk3.subtitulo</item>
+        <item>@string/main.pk4.subtitulo</item>
+        <item>@string/main.pk5.subtitulo</item>
+        <item>@string/main.pk6.subtitulo</item>
+        <item>@string/main.pk7.subtitulo</item>
+        <item>@string/main.pk8.subtitulo</item>
+    </string-array>
+
+    <integer-array name="image">
+        <item>@drawable/basureroverdee</item>
+        <item>@drawable/basureroazul</item>
+        <item>@drawable/basureroamarillo</item>
+        <item>@drawable/basureronaranajaa</item>
+        <item>@drawable/basurerogris</item>
+        <item>@drawable/basureronegro</item>
+        <item>@drawable/basurerocafee</item>
+        <item>@drawable/basurerorojo</item>
+    </integer-array>
+
+    <string-array name="descripcion">
+        <item>@string/main.pk1.descripcion</item>
+        <item>@string/main.pk2.descripcion</item>
+        <item>@string/main.pk3.descripcion</item>
+        <item>@string/main.pk4.descripcion</item>
+        <item>@string/main.pk5.descripcion</item>
+        <item>@string/main.pk6.descripcion</item>
+        <item>@string/main.pk7.descripcion</item>
+        <item>@string/main.pk8.descripcion</item>
+    </string-array>
+
+    <integer-array name="imagedetalle">
+        <item>@drawable/organicos</item>
+        <item>@drawable/celulosa</item>
+        <item>@drawable/plasticos</item>
+        <item>@drawable/pet</item>
+        <item>@drawable/vidriometal</item>
+        <item>@drawable/sanitarios</item>
+        <item>@drawable/peligrosos</item>
+        <item>@drawable/infecciosos</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.telassimgomez.studyjam_proyectofinal.CodigoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/fondoprincipall"
+        android:alpha="0.7"></LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:orientation="vertical"
+        android:background="@drawable/fondoprincipal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_titulo"
+            android:text="@string/titulo_codigo_colores"
+            android:layout_gravity="center_horizontal"
+            android:textSize="@dimen/tamanio_titulo"
+            android:textStyle="bold|italic"
+            android:textColor="@color/colorLetra"/>
+    </LinearLayout>
+        <ListView
+            android:id="@+id/lvLista"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:elevation="3dp"
+            android:background="@drawable/fondo_lista"
+            android:layout_marginBottom="30dp"/>
+    </LinearLayout>
+</RelativeLayout>

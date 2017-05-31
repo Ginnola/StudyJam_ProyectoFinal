@@ -1,0 +1,210 @@
+<resources>
+    <string name="app_name">StudyJam_ProyectoFinal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="nombre_app">RECICLYN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="titulo_calentamiento">COMO NOS AFECTA EL CALENTAMIENTO GLOBAL?</string>
+    <string name="titulo_razones">10 RAZONES PARA RECICLAR</string>
+    <string name="titulo_codigo_colores">CODIGO DE COLORES DEL RECICLAJE</string>
+    <string name="titulo_about">ABOUT</string>
+    <string name="titulo_mapa">PUNTOS DE RECICLAJE</string>
+
+    <string name="reciclaje">El reciclaje es un proceso donde las materias primas que componen los materiales que usamos en la vida diaria como el papel, vidrio, aluminio, plástico, etc., una vez terminados su ciclo de vida útil, se transforman de nuevo en nuevos materiales. Esto quiere decir que el reciclaje contribuye a luchar contra el agotamiento de los recursos naturales y también ayuda a eliminar los desechos de forma eficaz. Al separar los residuos según sus características, es posible aprovechar algunos para el reciclaje y eliminar el resto de manera adecuada.</string>
+    <string name="calentamiento">El calentamiento global es el incremento continuo de la temperatura promedio global: específicamente la temperatura de la atmósfera y de los mares, eso no quiere decir que todos los lugares se harán más calurosos; el incremento de la temperatura global causa cambios en los patrones de clima; por eso algunos lugares pueden experimentar sequías mientras otros se inundan, los lugares fríos se vuelven más cálidos y, en algunos casos, los lugares calurosos se hacen más frescos. Por eso también se utiliza el término "cambio climático" para hablar del calentamiento global; ambos términos refieren al mismo fenómeno.                             </string>
+    <string name="sub_consecuencias">Consecuencias del Calentamiento Global</string>
+    <string name="consecuencias">El calentamiento global produce muchos cambios en el planeta, uno de los más claros es el derretimiento del hielo, especialmente en los polos. En cierta forma, esto también reduce la fauna típica de la zona. Pero sin duda alguna, uno de los hechos más preocupantes de este acontecimiento es que los niveles del mar están creciendo, y las lluvias y nevadas cada vez son más grandes y constantes.</string>
+    <string name="razon_1"><b>1.</b> Reciclar <b>AYUDA A DISMINUIR</b> la contaminación del aire y el agua.</string>
+    <string name="razon_2"><b>2.</b> El reciclaje <b>GENERA PUESTOS FORMALES DE TRABAJO</b>.</string>
+    <string name="razon_3"><b>3.</b> Por cada tonelada de papel que se recicla, se <b>SALVAN 5 ÁRBOLES</b>.</string>
+    <string name="razon_4"><b>4.</b> Si reciclamos <b>REDUCIMOS LA PRESIÓN</b> de los rellenos sanitarios.</string>
+    <string name="razon_5"><b>5.</b> El reciclaje es una de las formas más sencillas de <b>COMBATIR EL CALENTAMIENTO GLOBAL</b>, pues evitamos generar mayor contaminación.</string>
+    <string name="razon_6"><b>6.</b> Si utilizamos papel reciclado <b>CONSERVAMOS NUESTROS RECURSOS NATURALES</b>.</string>
+    <string name="razon_7"><b>7.</b> Tirar papel a la basura es desperdiciar material para <b>HACER PRODUCTOS NUEVOS</b>.</string>
+    <string name="razon_8"><b>8.</b> Reciclar le da tiempo al planeta de <b>REFORESTARSE</b>.</string>
+    <string name="razon_9"><b>9.</b> Reciclando <b>PROLONGAMOS LA VIDA ÚTIL DE LOS MATERIALES</b>, ahorrando de esta manera dinero y recursos.</string>
+    <string name="razon_10"><b>10.</b> En algunos casos, se lanzan campañas de reciclaje que, además del <b>BENEFICIO MEDIAMBIENTAL</b>, persiguen un <b>BENEFICIO SOCIAL</b>.</string>
+    <string name="hello_blank_frddagment">Hello blank fragment</string>
+    <string name="hello_blank_frcagment">Hello blank fragment</string>
+
+    <string name="main.pk1.titulo">Verde</string>
+    <string name="main.pk2.titulo">Azul</string>
+    <string name="main.pk3.titulo">Amarillo</string>
+    <string name="main.pk4.titulo">Naranja</string>
+    <string name="main.pk5.titulo">Gris</string>
+    <string name="main.pk6.titulo">Negro</string>
+    <string name="main.pk7.titulo">Cafe</string>
+    <string name="main.pk8.titulo">Rojo</string>
+
+
+    <string name="main.pk1.subtitulo">Organicos</string>
+    <string name="main.pk2.subtitulo">Celulosa</string>
+    <string name="main.pk3.subtitulo">Plasticos</string>
+    <string name="main.pk4.subtitulo">Pet</string>
+    <string name="main.pk5.subtitulo">Vidrio y Metal</string>
+    <string name="main.pk6.subtitulo">Sanitarios</string>
+    <string name="main.pk7.subtitulo">Peligrosos</string>
+    <string name="main.pk8.subtitulo">Infecciosos</string>
+
+    <string name="main.pk1.descripcion">Aunque es difícil encontrar un contenedor de color verde, estos se utilizan exclusivamente para material orgánico. En caso de no disponer de este tipo de contenedor, como hemos comentado, utilizaríamos el gris.</string>
+    <string name="main.pk2.descripcion">En este contenedor de color azul, se deben depositar todo tipo de papeles y cartones, que podremos encontrar en envases de cartón como cajas o envases de alimentos. Periódicos, revistas, papeles de envolver o folletos publicitarios entre otros, también se deben alojar en estos contenedores. Para un uso efectivo de este tipo de contenedores, es recomendable plegar correctamente las cajas y envases para que permitan almacenar la mayor cantidad de este tipo de residuo.</string>
+    <string name="main.pk3.descripcion">En éste se deben depositar todo tipo de envases y productos fabricados con plásticos como botellas, envases de alimentación o bolsas. Las latas de conservas y de refrescos también tienen que depositarse en estos contenedores.</string>
+    <string name="main.pk4.descripcion">En este contenedor se deben depositar las botellas pet. </string>
+    <string name="main.pk5.descripcion">En este contenedor se depositan envases de vidrio y metal, como las botellas de bebidas alcohólicas. Importante no utilizar estos contenedores grises para cerámica o cristal, ya que encarecen notablemente el reciclaje de este tipo de material.</string>
+    <string name="main.pk6.descripcion">En este contenedor se depositan los medicamentos y rediduos de laboratorio.</string>
+    <string name="main.pk7.descripcion">Los contenedores cafes, aunque poco   habituales, son muy útiles y uno de los que evitan una mayor contaminación ambiental. Podemos considerarlos para almacenar desechos peligrosos como baterías, pilas, insecticidas, aceites, aerosoles, o productos tecnológicos.</string>
+    <string name="main.pk8.descripcion">Los contenedores rojos, sirven para depositar  elementos bioinfecciosos y hospitalarios.</string>
+
+    <string name="about.realizado"><b>Realizado por: </b></string>
+    <string name="about.nombre">Telassim Ginnola Gomez Jimenez</string>
+    <string name="about.acercaapp">La aplicacion <b>RECICLYN</b> tiene como objetivo brindar información a la población sobre lo importante que es el reciclaje y los daños que le ocasiona a nuestro planeta si no tomamos conciencia.</string>
+    <string name="about.cambio">Una sola persona talves no puede cambiar el mundo pero unidos podemos lograr grandes cambios...!!!</string>
+    <string name="about.info.ubicacion"><b>Si conoces mas puntos de reciclaje puedes enviar las coordenadas al correo ginnolag@gmail.com, asi podras ayudar a incrementar los puntos de reciclaje.... </b></string>
+    <string name="about.contacto"><b>Contacto: </b></string>
+    <string name="about.celular">78793620</string>
+    <string name="about.correo"><b>Correo: </b></string>
+    <string name="about.gmail">ginnolag@gmail.com</string>
+    <string name="about.lugar">Hecho en La Paz - Bolivia</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_ubicacion">Reciclyn</string>
+
+
+    <string name="main.punto1.titulo">AGENCIA DE RECOLECCION</string>
+    <string name="main.punto2.titulo">CHATARRERIA SAN MIGUEL</string>
+    <string name="main.punto3.titulo">RECICLAJE LA PAZ</string>
+    <string name="main.punto4.titulo">ACOPIADORA DE PAPEL ACOPIAPEL S.R.L.</string>
+    <string name="main.punto5.titulo">ALBERTS IMPORT EXPORT COMERCIAL</string>
+    <string name="main.punto6.titulo">ANSERCO ANACONDA SERVICE CORPORATION S.R.L.</string>
+    <string name="main.punto7.titulo">ARTHILD IMPORT EXPORT</string>
+    <string name="main.punto8.titulo">CANDY</string>
+    <string name="main.punto9.titulo">CAVIBRU</string>
+    <string name="main.punto10.titulo">COBRA MET - AV. NICOLAS SUAREZ</string>
+    <string name="main.punto11.titulo">COBRA MET - CARR. A COTOCA</string>
+    <string name="main.punto12.titulo">COMERCIAL DU LIN</string>
+    <string name="main.punto13.titulo">CORRE COLECTORA RECUPERADORA DE RESIDUOS</string>
+    <string name="main.punto14.titulo">CRUZBOL IMPORT EXPORT</string>
+    <string name="main.punto15.titulo">EL CHATARRERO IMPORT EXPORT</string>
+    <string name="main.punto16.titulo">EMPRESA DE IMPORTACION Y EXPORTACION PALAU</string>
+    <string name="main.punto17.titulo">EMPRESA RECUPERADORA Y RECICLADORA DE RESIDUOS ORGANICOS E INORGANICOS SRL</string>
+    <string name="main.punto18.titulo">FERROS - CAM</string>
+    <string name="main.punto19.titulo">IMPORT EXPORT CRISTALPET SRL</string>
+    <string name="main.punto20.titulo">RECICLABOL S.A.</string>
+    <string name="main.punto21.titulo">RECICLALLANTAS</string>
+    <string name="main.punto22.titulo">ACODEMATRV</string>
+    <string name="main.punto23.titulo">ACOPIADORA BOLIVIANA LIMITADA - ACOBOL S.R.L.</string>
+    <string name="main.punto24.titulo">DIPOLBA</string>
+    <string name="main.punto25.titulo">ECOPLASTIC S.R.L.</string>
+    <string name="main.punto26.titulo">IMPORT EXPORT CHATARRA ROJAS</string>
+    <string name="main.punto27.titulo">MASQUIS</string>
+    <string name="main.punto28.titulo">ZARATE ROSADO SANDRA PILAR</string>
+    <string name="main.punto29.titulo">METAP COMERCIO DE SUCATAS LTDA.</string>
+
+    <string name="main.lp.titulo">LA PAZ</string>
+    <string name="main.sc.titulo">SANTA CRUZ</string>
+    <string name="main.ch.titulo">COCHABAMBA</string>
+    <string name="main.or.titulo">ORURO</string>
+    <string name="main.pt.titulo">POTOSI</string>
+    <string name="main.tj.titulo">TARIJA</string>
+    <string name="main.pd.titulo">PANDO</string>
+    <string name="main.suc.titulo">SUCRE</string>
+    <string name="main.bn.titulo">BENI</string>
+    <string name="main.ea.titulo">EL ALTO</string>
+
+    <string name="main.direccion1.titulo">C. JUAN J. PÉREZ CASI ESQ. 20 DE OCTUBRE</string>
+    <string name="main.direccion2.titulo">Plaza EGUINO, ED EGUINO 411  </string>
+    <string name="main.direccion3.titulo">C. MURILLO #100 ENTRE ALMIRANTE GRAU Y ORURO</string>
+    <string name="main.direccion4.titulo">C. PANDO #35 ESQ. CASANOVAS</string>
+    <string name="main.direccion5.titulo">DOBLE VIA LA GUARDIA #57 UV. 190</string>
+    <string name="main.direccion6.titulo">AV. ISABEL LA CATÓLICA #111</string>
+    <string name="main.direccion7.titulo">C. 1 #7 BARRIO POLANCO</string>
+    <string name="main.direccion8.titulo">BARRIO 23 DE OCTUBRE UV. 144 A MZNA. 65</string>
+    <string name="main.direccion9.titulo">C. CÁSTULO CHÁVEZ #42</string>
+    <string name="main.direccion10.titulo">AV. NICOLÁS SUÁREZ #1910</string>
+    <string name="main.direccion11.titulo">CAMINO A COTOCA KM. 1 1/2</string>
+    <string name="main.direccion12.titulo">AV.  CRISTOBAL DE MENDOZA #1055 Z. BARRIO FLEIG</string>
+    <string name="main.direccion13.titulo">C. 6 #4 BARRIO TRANSPORTISTA</string>
+    <string name="main.direccion14.titulo">C. JOSÉ M. LAZCANO</string>
+    <string name="main.direccion15.titulo">AV. MUTUALISTA #300</string>
+    <string name="main.direccion16.titulo">PARQUE INDUSTRIAL 35</string>
+    <string name="main.direccion17.titulo">PQ. IND. AL LADO METALCRUZ</string>
+    <string name="main.direccion18.titulo">AV. PAURITO BARRIO CAÑADA PAILITA</string>
+    <string name="main.direccion19.titulo">AV. MONSEÑOR RIVERO #359</string>
+    <string name="main.direccion20.titulo">CALLE A BARRIO LOS SAUCES</string>
+    <string name="main.direccion21.titulo">AV. NAZARETH VILLA 1 DE MAYO</string>
+    <string name="main.direccion22.titulo">AV. BLANCO GALINDO KM.9</string>
+    <string name="main.direccion23.titulo">AV. POLONIA </string>
+    <string name="main.direccion24.titulo">C. VENEZUELA #851</string>
+    <string name="main.direccion25.titulo">CARR. A SACABA KM.5</string>
+    <string name="main.direccion26.titulo">C. A. PONSNANKI</string>
+    <string name="main.direccion27.titulo">C. LA PLATA #6752</string>
+    <string name="main.direccion28.titulo">PJE. CHOERE S/N ENTRE SAN PEDRO Y JUAN XXIII</string>
+    <string name="main.direccion29.titulo">AV. LUIS SALAZAR DE LA VEGA</string>
+
+    <string name="main.telefono1.titulo">2441612</string>
+    <string name="main.telefono2.titulo">2454089</string>
+    <string name="main.telefono3.titulo">2312840</string>
+    <string name="main.telefono4.titulo">2200464</string>
+    <string name="main.telefono5.titulo">3502130</string>
+    <string name="main.telefono6.titulo">---</string>
+    <string name="main.telefono7.titulo">3501081</string>
+    <string name="main.telefono8.titulo">---</string>
+    <string name="main.telefono9.titulo">---</string>
+    <string name="main.telefono10.titulo">3469235 - 3491930</string>
+    <string name="main.telefono11.titulo">3491930</string>
+    <string name="main.telefono12.titulo">3428262</string>
+    <string name="main.telefono13.titulo">3502160</string>
+    <string name="main.telefono14.titulo">---</string>
+    <string name="main.telefono15.titulo">---</string>
+    <string name="main.telefono16.titulo">---</string>
+    <string name="main.telefono17.titulo">3474141</string>
+    <string name="main.telefono18.titulo">---</string>
+    <string name="main.telefono19.titulo">3415782 - 3535349</string>
+    <string name="main.telefono20.titulo">3411771</string>
+    <string name="main.telefono21.titulo">3643951</string>
+    <string name="main.telefono22.titulo">4542227</string>
+    <string name="main.telefono23.titulo">---</string>
+    <string name="main.telefono24.titulo">4528397</string>
+    <string name="main.telefono25.titulo">4714214 - 4714216</string>
+    <string name="main.telefono26.titulo">4591133</string>
+    <string name="main.telefono27.titulo">5130893</string>
+    <string name="main.telefono28.titulo">6832574</string>
+    <string name="main.telefono29.titulo">---</string>
+
+    <string name="main.celular1.titulo">71948746</string>
+    <string name="main.celular2.titulo">---</string>
+    <string name="main.celular3.titulo">71571108</string>
+    <string name="main.celular4.titulo">---</string>
+    <string name="main.celular5.titulo">---</string>
+    <string name="main.celular6.titulo">76014149</string>
+    <string name="main.celular7.titulo">---</string>
+    <string name="main.celular8.titulo">770449335</string>
+    <string name="main.celular9.titulo">60811004</string>
+    <string name="main.celular10.titulo">---</string>
+    <string name="main.celular11.titulo">---</string>
+    <string name="main.celular12.titulo">---</string>
+    <string name="main.celular13.titulo">---</string>
+    <string name="main.celular14.titulo">70952689</string>
+    <string name="main.celular15.titulo">75019567</string>
+    <string name="main.celular16.titulo">72101940</string>
+    <string name="main.celular17.titulo">---</string>
+    <string name="main.celular18.titulo">72600066</string>
+    <string name="main.celular19.titulo">---</string>
+    <string name="main.celular20.titulo">78055038</string>
+    <string name="main.celular21.titulo">76695313</string>
+    <string name="main.celular22.titulo">---</string>
+    <string name="main.celular23.titulo">---</string>
+    <string name="main.celular24.titulo">---</string>
+    <string name="main.celular25.titulo">---</string>
+    <string name="main.celular26.titulo">---</string>
+    <string name="main.celular27.titulo">---</string>
+    <string name="main.celular28.titulo">---</string>
+    <string name="main.celular29.titulo">72622932</string>
+
+</resources>

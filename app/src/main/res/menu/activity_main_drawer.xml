@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/calentamiento_global"
+            android:icon="@drawable/ic_menu_sun"
+            android:title="Calentamiento Global" />
+        <item
+            android:id="@+id/razones"
+            android:icon="@drawable/ic_menu_razones"
+            android:title="10 Razones para Reciclar" />
+        <item
+            android:id="@+id/cod_colores"
+            android:icon="@drawable/ic_menu_reciclar"
+            android:title="Código de Colores" />
+        <item
+            android:id="@+id/ubicacion"
+            android:icon="@drawable/ic_menu_mapa"
+            android:title="Tu ubicacion" />
+        <item
+            android:id="@+id/puntos"
+            android:icon="@drawable/ic_puntos"
+            android:title="Puntos de Reciclaje" />
+    </group>
+
+    <item android:title="Acerca de la app">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>
