@@ -4,12 +4,11 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
-import android.widget.Toast;
 
 import java.util.ArrayList;
 
@@ -59,7 +58,6 @@ public class CodigoActivity extends AppCompatActivity implements AdapterView.OnI
 
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-        Toast.makeText(getApplicationContext(), "Ckick", Toast.LENGTH_LONG).show();
         Colores colores = datos.get(position);
         Intent i = new Intent(getApplicationContext(), DetallecodigoActivity.class);
         i.putExtra("colores", colores);

@@ -84,6 +84,16 @@ public class UbicacionActivity extends FragmentActivity implements OnMapReadyCal
         mMap.addMarker(new MarkerOptions().position(new LatLng(-17.766498814496934, -63.18549094365534)).title("Cavibru").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
         mMap.addMarker(new MarkerOptions().position(new LatLng(-17.7511799, -63.16825929999999)).title("Cobra Met - Av Nicolas Suárez").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
         mMap.addMarker(new MarkerOptions().position(new LatLng(-17.764200487841727, -63.07178312170413)).title("Cobra Met - Carretera a Cotoca").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(-17.7705957, -63.07178312170413)).title("Comercial Du Lin").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(-17.7552251, -63.153237399999966)).title("El Chatarrero Import Export").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(-17.7725856, -63.18247539999999)).title("Import Export Cristalpet S.R.L.").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(-17.7549357636686, -63.18920608465578)).title("Reciclallantas").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(-17.3927098, -66.19709820000003)).title("Acodematrv").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(-17.4422164, -66.1270801)).title("Acopiadora Boliviana Limitada - Acobol S.R.L.").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(-17.3848415, -66.1483786)).title("Dipolba").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(-17.3915352, -66.07188180000003)).title("Ecoplastic S.R.L.").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(-17.9692542, -67.11411559999999)).title("Masquis").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(-21.5250623, -64.7208324)).title("Zarate Rosado Sandra Pilar").icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_punto_reciclaje)));
 
     }
 
@@ -141,9 +151,8 @@ public class UbicacionActivity extends FragmentActivity implements OnMapReadyCal
             return;
         }
         LocationManager locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-        Location location = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+        Location location = locationManager.getLastKnownLocation (LocationManager.GPS_PROVIDER);
         actualizarUbicacion(location);
         locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 15000, 0, locationListener);
     }
-
 }

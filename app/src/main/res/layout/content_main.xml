@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="70dp"
             android:layout_margin="@dimen/margin_titulo"
-            android:src="@drawable/logotitulo"
+            android:src="@drawable/logotitulov2"
             android:layout_gravity="center_horizontal"/>
 
         <RelativeLayout

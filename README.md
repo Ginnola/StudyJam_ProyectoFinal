@@ -26,7 +26,7 @@ Dentro de Android Studio:
 
 <div align="center">
     <center>
-        <img src="/img/captura.png" width="300">
+        <img src="/img/app.gif" width="300">
     </center>
 </div>
 <br><br>
