@@ -67,8 +67,9 @@
     <string name="about.acercaapp">La aplicacion <b>RECICLYN</b> tiene como objetivo brindar información a la población sobre lo importante que es el reciclaje y los daños que le ocasiona a nuestro planeta si no tomamos conciencia.</string>
     <string name="about.cambio">Una sola persona talves no puede cambiar el mundo pero unidos podemos lograr grandes cambios...!!!</string>
     <string name="about.info.ubicacion"><b>Si conoces mas puntos de reciclaje puedes enviar las coordenadas al correo ginnolag@gmail.com, asi podras ayudar a incrementar los puntos de reciclaje.... </b></string>
-    <string name="about.contacto"><b>Contacto: </b></string>
-    <string name="about.celular">78793620</string>
+    <string name="about.contacto"><b>CONTACTOS</b></string>
+    <string name="about.facebook"><b>Facebook: </b></string>
+    <string name="about.celular">https://www.facebook.com/ginnolove</string>
     <string name="about.correo"><b>Correo: </b></string>
     <string name="about.gmail">ginnolag@gmail.com</string>
     <string name="about.lugar">Hecho en La Paz - Bolivia</string>
